@@ -204,7 +204,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/assetic-bundle" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="281" />
     <option name="y" value="21" />
     <option name="width" value="1400" />
@@ -291,12 +291,12 @@
       <workItem from="1527164800385" duration="8669000" />
       <workItem from="1527232056636" duration="24346000" />
       <workItem from="1527491224708" duration="20494000" />
-      <workItem from="1527577826874" duration="8032000" />
+      <workItem from="1527577826874" duration="8449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61541000" />
+    <option name="totallyTimeSpent" value="61958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />

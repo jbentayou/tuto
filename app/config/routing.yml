@@ -1,0 +1,22 @@
+login:
+    path: /login2
+    defaults:
+        _controller: UserBundle:Security:login
+
+# Les imports pour FOSUserBundle
+fos_user:
+    resource: "@FOSUserBundle/Resources/config/routing/all.xml"
+
+hello_world:
+    resource: "@HelloWorldBundle/Resources/config/routing.yml"
+    prefix:   /test/
+
+hello_w:
+    resource: '@HelloWBundle/Controller/'
+    type:     annotation
+    prefix:   /hello/
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
+

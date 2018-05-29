@@ -1,0 +1,3 @@
+hello_world_homepage:
+    path:     /hello-world{id}
+    defaults: { _controller: HelloWBundle:Default:index }
